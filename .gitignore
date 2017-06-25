@@ -1,3 +1,7 @@
+.serverless
+dist
+env.yml
+
 # Logs
 logs
 *.log
